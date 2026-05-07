@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Columbus Georgia
+
+> Geotechnical engineering services in Columbus Georgia, United States.
+
+## Services
+- [Anchors](https://columbus-georgia.geotechnicalengineering1.sbs/anchors/)
+- [Atterberg Limits](https://columbus-georgia.geotechnicalengineering1.sbs/atterberg-limits/)
+- [Cbr Road](https://columbus-georgia.geotechnicalengineering1.sbs/cbr-road/)
+- [Cpt Test](https://columbus-georgia.geotechnicalengineering1.sbs/cpt-test/)
+- [Deep Excavations](https://columbus-georgia.geotechnicalengineering1.sbs/deep-excavations/)
+- [Excavation Monitoring](https://columbus-georgia.geotechnicalengineering1.sbs/excavation-monitoring/)
+- [Excavations](https://columbus-georgia.geotechnicalengineering1.sbs/excavations/)
+- [Flexible Pavement](https://columbus-georgia.geotechnicalengineering1.sbs/flexible-pavement/)
+- [Footings](https://columbus-georgia.geotechnicalengineering1.sbs/footings/)
+- [Foundations](https://columbus-georgia.geotechnicalengineering1.sbs/foundations/)
+- [Grain Size](https://columbus-georgia.geotechnicalengineering1.sbs/grain-size/)
+- [Ground Improvement](https://columbus-georgia.geotechnicalengineering1.sbs/ground-improvement/)
+- [Grouting](https://columbus-georgia.geotechnicalengineering1.sbs/grouting/)
+- [In Situ Permeability](https://columbus-georgia.geotechnicalengineering1.sbs/in-situ-permeability/)
+- [Investigation](https://columbus-georgia.geotechnicalengineering1.sbs/investigation/)
+- [Lab In Situ](https://columbus-georgia.geotechnicalengineering1.sbs/lab-in-situ/)
+- [Laboratory](https://columbus-georgia.geotechnicalengineering1.sbs/laboratory/)
+- [Liquefaction](https://columbus-georgia.geotechnicalengineering1.sbs/liquefaction/)
+- [Masw](https://columbus-georgia.geotechnicalengineering1.sbs/masw/)
+- [Mat Foundations](https://columbus-georgia.geotechnicalengineering1.sbs/mat-foundations/)
+- [Piles](https://columbus-georgia.geotechnicalengineering1.sbs/piles/)
+- [Proctor Tests](https://columbus-georgia.geotechnicalengineering1.sbs/proctor-tests/)
+- [Resistivity](https://columbus-georgia.geotechnicalengineering1.sbs/resistivity/)
+- [Retaining Walls](https://columbus-georgia.geotechnicalengineering1.sbs/retaining-walls/)
+- [Rigid Pavement](https://columbus-georgia.geotechnicalengineering1.sbs/rigid-pavement/)
+- [Road Geotechnics](https://columbus-georgia.geotechnicalengineering1.sbs/road-geotechnics/)
+- [Sand Cone Density](https://columbus-georgia.geotechnicalengineering1.sbs/sand-cone-density/)
+- [Seismic](https://columbus-georgia.geotechnicalengineering1.sbs/seismic/)
+- [Seismic Isolation](https://columbus-georgia.geotechnicalengineering1.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://columbus-georgia.geotechnicalengineering1.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://columbus-georgia.geotechnicalengineering1.sbs/seismic-refraction/)
+- [Slope Stability](https://columbus-georgia.geotechnicalengineering1.sbs/slope-stability/)
+- [Slopes](https://columbus-georgia.geotechnicalengineering1.sbs/slopes/)
+- [Soft Ground Tunnels](https://columbus-georgia.geotechnicalengineering1.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://columbus-georgia.geotechnicalengineering1.sbs/spt-drilling/)
+- [Stone Columns](https://columbus-georgia.geotechnicalengineering1.sbs/stone-columns/)
+- [Test Pits](https://columbus-georgia.geotechnicalengineering1.sbs/test-pits/)
+- [Triaxial](https://columbus-georgia.geotechnicalengineering1.sbs/triaxial/)
+- [Vibrocompaction](https://columbus-georgia.geotechnicalengineering1.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://columbus-georgia.geotechnicalengineering1.sbs/
+
+## About
+This site provides geotechnical engineering services in Columbus Georgia, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
